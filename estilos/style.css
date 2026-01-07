@@ -65,3 +65,7 @@ section#login > div#formulario p#form {
     border: 2px solid black;
     height: 30px;
 }
+
+div.campo > label {
+    display: none;
+}
